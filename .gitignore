@@ -1,0 +1,34 @@
+# Compiled files
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# NuGet Packages
+*.nupkg
+packages/
+.nuget/
+
+# Rider IDE files
+.idea/
+
+# Others
+*.dbmdl
+*.bak
+*.backup
+*.swp
+*.tmp
+*.orig
