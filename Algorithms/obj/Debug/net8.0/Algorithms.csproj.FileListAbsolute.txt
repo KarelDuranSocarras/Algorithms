@@ -1,0 +1,11 @@
+/mnt/5d169c39-827c-46a2-b1e6-48adf71d7771/a/Algorithms/Algorithms/bin/Debug/net8.0/Algorithms.deps.json
+/mnt/5d169c39-827c-46a2-b1e6-48adf71d7771/a/Algorithms/Algorithms/bin/Debug/net8.0/Algorithms.dll
+/mnt/5d169c39-827c-46a2-b1e6-48adf71d7771/a/Algorithms/Algorithms/bin/Debug/net8.0/Algorithms.pdb
+/mnt/5d169c39-827c-46a2-b1e6-48adf71d7771/a/Algorithms/Algorithms/obj/Debug/net8.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/5d169c39-827c-46a2-b1e6-48adf71d7771/a/Algorithms/Algorithms/obj/Debug/net8.0/Algorithms.AssemblyInfoInputs.cache
+/mnt/5d169c39-827c-46a2-b1e6-48adf71d7771/a/Algorithms/Algorithms/obj/Debug/net8.0/Algorithms.AssemblyInfo.cs
+/mnt/5d169c39-827c-46a2-b1e6-48adf71d7771/a/Algorithms/Algorithms/obj/Debug/net8.0/Algorithms.csproj.CoreCompileInputs.cache
+/mnt/5d169c39-827c-46a2-b1e6-48adf71d7771/a/Algorithms/Algorithms/obj/Debug/net8.0/Algorithms.dll
+/mnt/5d169c39-827c-46a2-b1e6-48adf71d7771/a/Algorithms/Algorithms/obj/Debug/net8.0/refint/Algorithms.dll
+/mnt/5d169c39-827c-46a2-b1e6-48adf71d7771/a/Algorithms/Algorithms/obj/Debug/net8.0/Algorithms.pdb
+/mnt/5d169c39-827c-46a2-b1e6-48adf71d7771/a/Algorithms/Algorithms/obj/Debug/net8.0/ref/Algorithms.dll
